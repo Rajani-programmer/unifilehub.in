@@ -39,7 +39,3 @@ Built by **Rajani Kanta Dolai**, it offers privacy-first solutions where files a
 **Rajani Kanta Dolai**  
 Frontend Developer | Creator of UniFile Hub
 
----
-
-## 📜 License
-This project is licensed under the **MIT License** – you’re free to use, modify, and share with proper attribution.
